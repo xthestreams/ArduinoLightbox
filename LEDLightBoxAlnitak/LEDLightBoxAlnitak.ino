@@ -6,12 +6,12 @@ What: LEDLightBoxAlnitak - PC controlled lightbox implmented using the
 Who:
 	Created By: Jared Wellman - jared@mainsequencesoftware.com
   Modified By: Paul Muller - xthestreams@gmail.com based on feedback from...
-
+  
 When:
 	Last modified:  2013/May/05
   Updated: 25 July 2020
 
-*** addressed issue with INDI driver no recgonising the CR/LF sequence of the rdevice response. Have NOT tested with ASCOM drivers as yet ***
+*** addressed issue with INDI driver no recgonising the CR/LF sequence of the rdevice response. Have NOT tested with ASCOM drivers as yet ***  
 
 Typical usage on the command prompt:
 Send     : >S000\n      //request state
